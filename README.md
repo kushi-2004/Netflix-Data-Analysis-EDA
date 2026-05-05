@@ -1,38 +1,25 @@
-🚀 Project Overview
-The goal of this "Insight Hunter" project is to tell a story through data. By cleaning and visualizing the Netflix dataset, I have identified key patterns that show how Netflix has evolved as a global streaming giant.
+📺 Netflix Data Analysis (EDA)
+Exploratory Data Analysis (EDA) project using the Netflix dataset to uncover content trends and insights.
 
-🛠️ Tools & Libraries Used
-Python: Core programming language.
+🛠️ Tech Stack
+Language: Python
 
-Pandas: For data cleaning and manipulation.
+Libraries: Pandas, Seaborn, Matplotlib
 
-Matplotlib & Seaborn: For creating insightful data visualizations.
+🔍 Key Insights
+Dominance: Movies make up over 70% of the platform's content.
 
-Google Colab: Environment for running the analysis.
+Growth: A massive surge in content additions started after 2015, peaking in 2019.
 
-🔍 Key Insights Discovered
-Content Dominance: Movies significantly outnumber TV Shows on Netflix, comprising more than 70% of the total content.
+Top Genre: "Dramas" and "International Movies" are the most popular categories.
 
-The Growth Explosion: There was a massive surge in content addition starting from 2015, peaking around 2019.
+Audience: The majority of content is rated TV-MA (Mature Audiences).
 
-Top Genres: "Dramas" and "International Movies" are the most frequent categories, highlighting Netflix's focus on diverse, serious global content.
+📊 Visualizations Included
+Content Type Distribution (Movies vs TV Shows)
 
-Target Audience: A large portion of the content is rated TV-MA, indicating that Netflix primarily targets a mature audience.
+Top 10 Genres on Netflix
 
-📊 Visualizations
-During the analysis, I created several charts to better understand the data:
+Content Added Over the Years (Line Graph)
 
-Bar Charts: For identifying the most popular genres and content ratings.
-
-Line Graphs: To track the number of titles added per year and see the "Netflix Explosion."
-
-Count Plots: To compare the distribution of Movies vs. TV Shows.
-
-📁 How to Run
-Clone this repository.
-
-Ensure you have pandas, seaborn, and matplotlib installed.
-
-Open the .ipynb file in Google Colab or Jupyter Notebook.
-
-Upload the netflix_titles.csv file and run the cells.
+Content Ratings Distribution
