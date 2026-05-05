@@ -1,6 +1,3 @@
-📺 Netflix Content Analysis & Visualization
-This project is part of my Intermediate Data Science journey (Phase 2). It focuses on Exploratory Data Analysis (EDA) of the Netflix dataset to uncover trends in movies and TV shows, popular genres, and content growth over the years.
-
 🚀 Project Overview
 The goal of this "Insight Hunter" project is to tell a story through data. By cleaning and visualizing the Netflix dataset, I have identified key patterns that show how Netflix has evolved as a global streaming giant.
 
